@@ -3,7 +3,7 @@
 This repository contains samples and proof of work for the projects listed on my resume.
 
 - **SouthAlps**  
-   This folder contains code for a website where I contributed back-end functionality using NodeJS. The site allows for content management with minimal coding knowledge. My contributions include implementing email-based contact forms, admin login/logout functionality, and dynamic text field editing, among other features.
+   This folder contains code for a website where I contributed back-end functionality using NodeJS. The site allows for content management with minimal coding knowledge. My contributions include implementing email-based contact forms, admin login/logout functionality, and dynamic text field editing, among other features. [Linked here is a video demonstrating the features](https://drive.google.com/drive/folders/1WialONDsYZzAhykpRtqj6YI70o4-MINr)
 
 - **Database Design**  
    This folder contains a screenshot of a star schema I co-designed, aimed at consolidating retailer information and product sales from multiple sources. Also included is a PDF with sample data extracted from the newly created database.
