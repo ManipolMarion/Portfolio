@@ -10,6 +10,6 @@ This repository contains samples and proof of work for the projects listed on my
 
 - **UI/UX Prototype**  
    This is a [Figma UI/UX prototype](https://www.figma.com/design/KqstGfu15nMHSp3RCqOGB6/Go-Wireframe?node-id=0-1&t=Dz7WGhf5Fb8ePvFV-1) for a proposed app that helps users navigate unfamiliar commuting routes. I created the assets used in this prototype and implemented its interactivity.
-
-  - **Camera App**  
+  
+- **Camera App**  
    The ZIP file contains an Android Studio project I collaborated with as part of our mobile development course. I implemented the gesture functionality as well as worked on the integeration of CameraX into the project.
